@@ -16,7 +16,6 @@ const WriterType = new GraphQLObjectType({
     },
 }) 
 
-
 const BookType = new GraphQLObjectType({
     name: 'Book',
     fields: {
@@ -35,7 +34,6 @@ const BookType = new GraphQLObjectType({
 
     },
 })
-
 
 const query = new GraphQLObjectType({
     name: 'RootQueryType',
@@ -70,8 +68,6 @@ const query = new GraphQLObjectType({
 
     }
 })
-
-
 
 export const mutation = new GraphQLObjectType({
     name: 'Mutation',
