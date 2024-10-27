@@ -1,196 +1,194 @@
 {
-    "writers": [
-        {
-            "id": 1,
-            "firstName": "Stephen",
-            "lastName": "King",
-            "birthYear": 1947,
-            "deathYear": null,
-            "country": "USA",
-            "city": "Portland, Maine"
-          },
-          {
-            "id": 2,
-            "firstName": "Kurt",
-            "lastName": "Vonnegut",
-            "birthYear": 1922,
-            "deathYear": 2007,
-            "country": "USA",
-            "city": "Indianapolis, Indiana"
-          },
-          {
-            "id": 3,
-            "firstName": "Herbert",
-            "lastName": "Wells",
-            "birthYear": 1866,
-            "deathYear": 1946,
-            "country": "United Kingdom",
-            "city": "Bromley, Kent"
-          },
-          {
-            "id": 4,
-            "firstName": "Philip",
-            "lastName": "Dick",
-            "birthYear": 1928,
-            "deathYear": 1982,
-            "country": "USA",
-            "city": "Chicago, Illinois"
-          },
-          {
-            "id": 5,
-            "firstName": "Douglas",
-            "lastName": "Adams",
-            "birthYear": 1952,
-            "deathYear": 2001,
-            "country": "United Kingdom",
-            "city": "Cambridge, England"
-          }  
-    ],
-    "books": [
-        {
-            "id": 10,
-            "authorId": 1,
-            "title": "It",
-            "year": 1986,
-            "mainCharacters": [
-              "Bill Denbrough",
-              "Beverly Marsh",
-              "Ben Hanscom",
-              "Richie Tozier",
-              "Eddie Kaspbrak",
-              "Stan Uris",
-              "Mike Hanlon",
-              "Pennywise (It)"
-            ],
-            "genre": "Horror"
-          },
-          [
-            {
-              "id": 1,
-              "authorId": 1,
-              "title": "The Body",
-              "year": 1982,
-              "mainCharacters": [
-                "Gordie Lachance",
-                "Chris Chambers",
-                "Teddy Duchamp",
-                "Vern Tessio"
-              ],
-              "genre": "Coming-of-Age, Drama"
-            },
-            {
-              "id": 2,
-              "authorId": 1,
-              "title": "Pet Sematary",
-              "year": 1983,
-              "mainCharacters": [
-                "Louis Creed",
-                "Rachel Creed",
-                "Ellie Creed",
-                "Gage Creed",
-                "Jud Crandall",
-                "Church (the cat)"
-              ],
-              "genre": "Horror"
-            },
-            {
-              "id": 3,
-              "authorId": 3,
-              "title": "Do Androids Dream of Electric Sheep?",
-              "year": 1968,
-              "mainCharacters": [
-                "Rick Deckard",
-                "Rachael Rosen",
-                "John Isidore",
-                "Pris Stratton",
-                "Roy Baty"
-              ],
-              "genre": "Science Fiction"
-            },
-            {
-              "id": 4,
-              "authorId": 3,
-              "title": "Ubik",
-              "year": 1969,
-              "mainCharacters": [
-                "Joe Chip",
-                "Glen Runciter",
-                "Pat Conley",
-                "Ella Runciter",
-                "Jory Miller"
-              ],
-              "genre": "Science Fiction"
-            },
-            {
-              "id": 5,
-              "authorId": 2,
-              "title": "Slaughterhouse-Five",
-              "year": 1969,
-              "mainCharacters": [
-                "Billy Pilgrim",
-                "Roland Weary",
-                "Edgar Derby",
-                "Paul Lazzaro",
-                "Tralfamadorians"
-              ],
-              "genre": "Science Fiction, Anti-war"
-            },
-            {
-              "id": 6,
-              "authorId": 2,
-              "title": "Cat's Cradle",
-              "year": 1963,
-              "mainCharacters": [
-                "John (narrator)",
-                "Felix Hoenikker",
-                "Angela Hoenikker",
-                "Newt Hoenikker",
-                "Bokonon"
-              ],
-              "genre": "Science Fiction, Satire"
-            },
-            {
-              "id": 7,
-              "authorId": 4,
-              "title": "The Island of Doctor Moreau",
-              "year": 1896,
-              "mainCharacters": [
-                "Edward Prendick",
-                "Dr. Moreau",
-                "Montgomery",
-                "The Beast Folk"
-              ],
-              "genre": "Science Fiction, Horror"
-            },
-            {
-              "id": 8,
-              "authorId": 4,
-              "title": "The Invisible Man",
-              "year": 1897,
-              "mainCharacters": [
-                "Griffin (The Invisible Man)",
-                "Dr. Kemp",
-                "Mr. Marvel",
-                "Mrs. Hall"
-              ],
-              "genre": "Science Fiction, Thriller"
-            },
-            {
-              "id": 9,
-              "authorId": 5,
-              "title": "The Hitchhiker's Guide to the Galaxy",
-              "year": 1979,
-              "mainCharacters": [
-                "Arthur Dent",
-                "Ford Prefect",
-                "Zaphod Beeblebrox",
-                "Trillian",
-                "Marvin (the Paranoid Android)"
-              ],
-              "genre": "Science Fiction, Comedy"
-            }
-          ]
-          
-          
+  "writers": [
+    {
+      "id": 1,
+      "firstName": "Stephen",
+      "lastName": "King",
+      "birthYear": 1947,
+      "deathYear": null,
+      "country": "USA",
+      "city": "Portland, Maine"
+    },
+    {
+      "id": 2,
+      "firstName": "Kurt",
+      "lastName": "Vonnegut",
+      "birthYear": 1922,
+      "deathYear": 2007,
+      "country": "USA",
+      "city": "Indianapolis, Indiana"
+    },
+    {
+      "id": 3,
+      "firstName": "Herbert",
+      "lastName": "Wells",
+      "birthYear": 1866,
+      "deathYear": 1946,
+      "country": "United Kingdom",
+      "city": "Bromley, Kent"
+    },
+    {
+      "id": 4,
+      "firstName": "Philip",
+      "lastName": "Dick",
+      "birthYear": 1928,
+      "deathYear": 1982,
+      "country": "USA",
+      "city": "Chicago, Illinois"
+    },
+    {
+      "id": 5,
+      "firstName": "Douglas",
+      "lastName": "Adams",
+      "birthYear": 1952,
+      "deathYear": 2001,
+      "country": "United Kingdom",
+      "city": "Cambridge, England"
+    }
+  ],
+  "books": [
+    {
+      "id": 10,
+      "authorId": 1,
+      "title": "It",
+      "year": 1986,
+      "mainCharacters": [
+        "Bill Denbrough",
+        "Beverly Marsh",
+        "Ben Hanscom",
+        "Richie Tozier",
+        "Eddie Kaspbrak",
+        "Stan Uris",
+        "Mike Hanlon",
+        "Pennywise (It)"
+      ],
+      "genre": "Horror"
+    },
+    [
+      {
+        "id": 1,
+        "authorId": 1,
+        "title": "The Body",
+        "year": 1982,
+        "mainCharacters": [
+          "Gordie Lachance",
+          "Chris Chambers",
+          "Teddy Duchamp",
+          "Vern Tessio"
+        ],
+        "genre": "Coming-of-Age, Drama"
+      },
+      {
+        "id": 2,
+        "authorId": 1,
+        "title": "Pet Sematary",
+        "year": 1983,
+        "mainCharacters": [
+          "Louis Creed",
+          "Rachel Creed",
+          "Ellie Creed",
+          "Gage Creed",
+          "Jud Crandall",
+          "Church (the cat)"
+        ],
+        "genre": "Horror"
+      },
+      {
+        "id": 3,
+        "authorId": 3,
+        "title": "Do Androids Dream of Electric Sheep?",
+        "year": 1968,
+        "mainCharacters": [
+          "Rick Deckard",
+          "Rachael Rosen",
+          "John Isidore",
+          "Pris Stratton",
+          "Roy Baty"
+        ],
+        "genre": "Science Fiction"
+      },
+      {
+        "id": 4,
+        "authorId": 3,
+        "title": "Ubik",
+        "year": 1969,
+        "mainCharacters": [
+          "Joe Chip",
+          "Glen Runciter",
+          "Pat Conley",
+          "Ella Runciter",
+          "Jory Miller"
+        ],
+        "genre": "Science Fiction"
+      },
+      {
+        "id": 5,
+        "authorId": 2,
+        "title": "Slaughterhouse-Five",
+        "year": 1969,
+        "mainCharacters": [
+          "Billy Pilgrim",
+          "Roland Weary",
+          "Edgar Derby",
+          "Paul Lazzaro",
+          "Tralfamadorians"
+        ],
+        "genre": "Science Fiction, Anti-war"
+      },
+      {
+        "id": 6,
+        "authorId": 2,
+        "title": "Cat's Cradle",
+        "year": 1963,
+        "mainCharacters": [
+          "John (narrator)",
+          "Felix Hoenikker",
+          "Angela Hoenikker",
+          "Newt Hoenikker",
+          "Bokonon"
+        ],
+        "genre": "Science Fiction, Satire"
+      },
+      {
+        "id": 7,
+        "authorId": 4,
+        "title": "The Island of Doctor Moreau",
+        "year": 1896,
+        "mainCharacters": [
+          "Edward Prendick",
+          "Dr. Moreau",
+          "Montgomery",
+          "The Beast Folk"
+        ],
+        "genre": "Science Fiction, Horror"
+      },
+      {
+        "id": 8,
+        "authorId": 4,
+        "title": "The Invisible Man",
+        "year": 1897,
+        "mainCharacters": [
+          "Griffin (The Invisible Man)",
+          "Dr. Kemp",
+          "Mr. Marvel",
+          "Mrs. Hall"
+        ],
+        "genre": "Science Fiction, Thriller"
+      },
+      {
+        "id": 9,
+        "authorId": 5,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "year": 1979,
+        "mainCharacters": [
+          "Arthur Dent",
+          "Ford Prefect",
+          "Zaphod Beeblebrox",
+          "Trillian",
+          "Marvin (the Paranoid Android)"
+        ],
+        "genre": "Science Fiction, Comedy"
+      }
     ]
+  ]
 }
