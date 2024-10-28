@@ -8,6 +8,7 @@ import { dbConnect } from './db';
 import { router } from './routes';
 
 const PORT = ENV.PORT || 4001;
+console.log(ENV.MONGO_URI, { PORT });
 
 const yoga = createYoga({ schema });
 
